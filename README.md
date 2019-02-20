@@ -1,5 +1,5 @@
 # kc2wong-itsmicrosrv-tools
-Some scripts and tools for kc2wong's itsmicrosrv project. For details of itsmicrosrv project, please client [here](https://github.com/kc2wong/itsmicrosrv)
+Some scripts and tools for kc2wong's itsmicrosrv project. For details of itsmicrosrv project, please click [here](https://github.com/kc2wong/itsmicrosrv)
 
   - Startup and Shutdown scripts for Spring Cloud mode and monolithic mode of itsmicrosrv
     - run\_monolith\_mode.sh
@@ -116,6 +116,6 @@ RESULT
 {"currencyCode":"HKD","isoCode":"HKD","decimalPoint":2,"descptDefLang":"Hong Kong Dollar","descpt2ndLang":"港幣","descpt3rdLang":"港币","unitName":"Dollar","subUnitName":"Cent","lastModUser":"SYSADMALL","lastModTimestamp":"2011-11-19 09:17:46","syncstr":"2000/01/01 00:00:00","status":"A","version":1}
 ====================
 
-Other scripts are ready for testing order, trading accout, market data related APIs
+Other scripts are ready for testing order, trading accout, market data related APIs. [Postman](https://www.getpostman.com) will be good if you would like to trigger a reuqest from Window PC for testing.
 ```
 
