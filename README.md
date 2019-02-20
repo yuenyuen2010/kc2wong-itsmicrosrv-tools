@@ -116,6 +116,8 @@ RESULT
 {"currencyCode":"HKD","isoCode":"HKD","decimalPoint":2,"descptDefLang":"Hong Kong Dollar","descpt2ndLang":"港幣","descpt3rdLang":"港币","unitName":"Dollar","subUnitName":"Cent","lastModUser":"SYSADMALL","lastModTimestamp":"2011-11-19 09:17:46","syncstr":"2000/01/01 00:00:00","status":"A","version":1}
 ====================
 
-Other scripts are ready for testing order, trading accout, market data related APIs. [Postman](https://www.getpostman.com) will be good if you would like to trigger a reuqest from Window PC for testing.
+Other scripts are ready for testing order, trading accout, market data related APIs.
 ```
+
+[Postman](https://www.getpostman.com) will be good if you would like to trigger a reuqest from Window PC for testing.
 
